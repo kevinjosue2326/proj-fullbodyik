@@ -13,12 +13,6 @@
 			]
 		}
 	],
-	"Plugins": [
-		{
-			"Name": "OculusAudio",
-			"Enabled": true
-		}
-	],
 	"TargetPlatforms": [
 		"WindowsNoEditor"
 	]
